@@ -153,5 +153,5 @@ plt.show()
 ## Result:
 The CUDA program successfully converts the input image to grayscale using the GPU. The resulting grayscale image is saved as an output file. This example demonstrates the power of GPU parallelism in accelerating image processing tasks.
 
-NAME : ASWIN B
-REG. NO.: 212224110007
+### NAME : ASWIN B
+### REG. NO.: 212224110007
